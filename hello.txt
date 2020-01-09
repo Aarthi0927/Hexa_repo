@@ -1,6 +1,10 @@
 hi..good morning
 hello all
 d1
+<<<<<<< HEAD
 d2
 de
 dh
+=======
+d2
+>>>>>>> parent of 86dcf07... line added
